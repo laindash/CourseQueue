@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/CourseQueue">
+        <file>img/settingsBtnPic.png</file>
+        <file>img/greenCircle.png</file>
+        <file>img/purpleCircle.png</file>
+        <file>img/redCircle.png</file>
+        <file>img/yellowCircle.png</file>
+        <file>img/queueIcon.png</file>
+    </qresource>
+</RCC>
